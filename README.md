@@ -1,4 +1,7 @@
 ### Hi there 👋
+              - name: Metrics embed
+                uses: lowlighter/metrics@v3.34
+            
 
 <!--
 **utsavtyagi01/utsavtyagi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
